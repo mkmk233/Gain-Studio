@@ -1,0 +1,17 @@
+.venv/
+build/
+dist/
+.work/
+__pycache__/
+*.pyc
+
+# Personal photo samples
+*.ARW
+*.arw
+*.HEIC
+*.heic
+*.HIF
+*.hif
+*.HEIF
+*.heif
+DSC09154_gain.avif
